@@ -17,8 +17,9 @@ pip install tqdm
 pip install random
 ```
 
-## Usage
+## How it works
 
+![image](https://user-images.githubusercontent.com/58265021/111886563-d4b78f80-89ce-11eb-8d2f-bc72145a84c3.png)
 
 
 
