@@ -19,9 +19,9 @@ pip install random
 
 ## How it works
 
-![image](https://user-images.githubusercontent.com/58265021/111886590-16483a80-89cf-11eb-8c23-8bf771720a8b.png)
-
 bondee is a web-application that matches an employees profile to a suitable counterprofile. Thereby, bondee's functional principle can be split into 3 main areas: gathering, engine, recommendation. 
+
+![image](https://user-images.githubusercontent.com/58265021/111886590-16483a80-89cf-11eb-8c23-8bf771720a8b.png)
 
 ### Gathering 
 In a first step, bondee collects data through numerous domains. Next to obvious data from an employees' CV (location, previous companies, previous roles, language, etc.), social media accounts (contact lists, intersts, image recognition on Insta, event attendance, etc) and HR related information (department, calendar time utilization), bondee also gathers potential employee growth fields through a indiviudalized survey. State of the art data preprocessing methods subsequently prep the data.
