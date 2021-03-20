@@ -43,7 +43,7 @@ In a final step all this information is summarized in an actionable and joyful t
 
 ## Additional Notes
 
-Instead of introducing unnecessary complexity, we've been intentionally focusing on basic statistical methods (PCA and agglomerative clustering) in the first version of Bondee. Through that, we'll enable light weight deployment as well as deterministic behavior, which will help us tremendously to bring Bondee into companies' action!
+Getting Bondee out there generating valuable customer feedback will be of utmost importance to Bondees' success! This is why we've been focusing on leaving out unnecessary complexity in the first version of Bondee. We've been intentionally utilizing basic statistical methods (PCA and agglomerative clustering). Through that, we'll enable light weight deployment as well as deterministic behavior, which will help us tremendously to bring Bondee into companies' hands asap! 
  
 For the context of this hackathon we've been scraping example data and created our own dataset (see `data_exploration/scraping_dataset.py`).
 
