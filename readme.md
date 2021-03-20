@@ -45,7 +45,7 @@ In a final step all this information is summarized in an actionable and joyful t
 
 Instead of introducing unnecessary complexity, we've been intentionally focusing on basic statistical methods (PCA and agglomerative clustering). Through that, we'll enable light weight deployment as well as deterministic behavior, which will help us tremendously to bring bondee into companies' action!
  
-For the context of this hackathon we've been scraping example data and created our own dataset (see data_exploration folder).
+For the context of this hackathon we've been scraping example data and created our own dataset (see `data_exploration/scraping_dataset.py`).
 
 
 ## License
