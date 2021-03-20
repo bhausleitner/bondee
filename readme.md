@@ -19,7 +19,7 @@ pip install random
 
 ## How it works
 
-![image](https://user-images.githubusercontent.com/58265021/111886563-d4b78f80-89ce-11eb-8d2f-bc72145a84c3.png)
+![image](https://user-images.githubusercontent.com/58265021/111886590-16483a80-89cf-11eb-8c23-8bf771720a8b.png)
 
 
 
