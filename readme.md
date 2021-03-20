@@ -41,10 +41,10 @@ Ontop of that, bondee considers employee calendar utilization in order to assess
 
 In a final step all this information is summarized in an actionable and joyful text recommendation: "Hey there, it looks like you should spend more time with Employee B, here is a calendar invite, just send it over! 😊" 
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Additional Notes
 
-Please make sure to update tests as appropriate.
+For the context of this hackathon, we've been scraping example data and created our own dataset.
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
