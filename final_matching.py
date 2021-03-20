@@ -154,7 +154,7 @@ group = group.join(cluster_v)
 # Dropping the Bios because it is no longer needed in place of vectorization
 group.drop('Bios', axis=1, inplace=True)
 
-# Trasnposing the DF so that we are correlating with the index(users)
+# Transposing the DF so that we are correlating with the index(users)
 corr_group = group.T.corr()
 
 corr_group
